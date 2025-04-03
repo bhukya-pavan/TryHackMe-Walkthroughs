@@ -8,5 +8,9 @@ To start our enumeration of the box we do an initial nmap scan. Using -sC for de
 
 ![2025-04-03_04-09](https://github.com/user-attachments/assets/3d03499b-4e54-43b1-8128-23829df30532)
 
+The results of this nmap show 2 ports open:
 
+port 80 which is a HTTP server.
+Port 22 which is a SSH service
 
+Our next step is to look into the HTTP server. Navigating there in the browser shows a site which looks like Ryan's portfolio page.
