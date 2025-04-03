@@ -4,8 +4,9 @@
 
 Scanning
 
-To start our enumeration of the box we do an initial nmap scan. Using -sC for default scripts, -sV for version enumeration and -oA to output the results to a file.
+To start our enumeration of the box we do an initial nmap scan. Using -sC for default scripts, -sV for version enumeration and -oA to output the results 
 
-![Uploading 2025-04-03_04-09.png…]()
+![2025-04-03_04-09](https://github.com/user-attachments/assets/3d03499b-4e54-43b1-8128-23829df30532)
+
 
 
