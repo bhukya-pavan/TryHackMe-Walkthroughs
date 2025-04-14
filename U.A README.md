@@ -20,6 +20,18 @@ In the address bar, type  the IP address
 
  ![image](https://github.com/user-attachments/assets/0a27be03-8780-442c-a96a-ac95d495c5b5)
 
+ dirsearch  -u http://10.10.104.4/assets/index.php 
+
+ ![image](https://github.com/user-attachments/assets/1c73a05e-5cc8-407a-a195-abd905f6fed2)
+
+ ![image](https://github.com/user-attachments/assets/001c7bbe-3d96-49cf-be84-f044a874572e)
+
+ After discovering a command injection vulnerability, our next goal is to gain reverse shell access to the target machine
+
+ Generating the Reverse Shell Payload:
+
+
+
  
 
  
