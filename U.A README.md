@@ -28,7 +28,22 @@ In the address bar, type  the IP address
 
  After discovering a command injection vulnerability, our next goal is to gain reverse shell access to the target machine
 
+ 
+
  Generating the Reverse Shell Payload:
+
+ ![image](https://github.com/user-attachments/assets/96b70750-144a-4fa0-930c-aed9e4acae6d)
+
+ ![image](https://github.com/user-attachments/assets/847a9a46-db5a-406e-947c-93979b00fbe6)
+
+ ![image](https://github.com/user-attachments/assets/86fc5eba-5951-4fcb-8353-5fa49d24e231)
+
+ ![image](https://github.com/user-attachments/assets/9c51bdfe-f615-443e-8c1d-a9ef23757982)
+ 
+
+
+
+
 
 
 
