@@ -39,6 +39,17 @@ In the address bar, type  the IP address
  ![image](https://github.com/user-attachments/assets/86fc5eba-5951-4fcb-8353-5fa49d24e231)
 
  ![image](https://github.com/user-attachments/assets/9c51bdfe-f615-443e-8c1d-a9ef23757982)
+
+ 
+
+ ![image](https://github.com/user-attachments/assets/d2057cdf-12cf-4efa-aa27-bd0432ec6c16)
+
+ ![image](https://github.com/user-attachments/assets/6fb533b7-ae7b-4bb9-b6cc-f2cce26e8c5d)
+
+ ![image](https://github.com/user-attachments/assets/2930e18d-5622-4327-a4bb-971b31e3fe81)
+
+
+
  
 
 
