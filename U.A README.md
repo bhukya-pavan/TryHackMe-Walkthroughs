@@ -59,6 +59,15 @@ In the address bar, type  the IP address
  ![image](https://github.com/user-attachments/assets/f288db10-fb37-4533-80e1-7616d55b3437)
 
  
+![image](https://github.com/user-attachments/assets/9ba4563d-79bb-475b-9f3c-0ac51d4d78fd)
+
+here i creat test.txt file [tmp > /tmp/test.txt]
+
+
+
+
+
+ 
 
 
 
