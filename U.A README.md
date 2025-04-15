@@ -54,6 +54,12 @@ In the address bar, type  the IP address
 
  THM{W3lC0m3_D3kU_1A_0n3f0rAll??}
 
+ ![image](https://github.com/user-attachments/assets/a573839c-2762-415d-8229-99687f680644)
+
+ ![image](https://github.com/user-attachments/assets/f288db10-fb37-4533-80e1-7616d55b3437)
+
+
+
  
 
 
