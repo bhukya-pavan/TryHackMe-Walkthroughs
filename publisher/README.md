@@ -18,6 +18,11 @@ Navigating to /spip/ directory we get another article called publisher
 
 ![image](https://github.com/user-attachments/assets/b57861fb-be37-4405-a280-58808cba5a2a)
 
+![image](https://github.com/user-attachments/assets/ae740fd2-8458-4d42-89f8-61ac3bfb05ba)
+
+
+
+
 
 
 
