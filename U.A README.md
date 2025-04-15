@@ -58,6 +58,8 @@ In the address bar, type  the IP address
 
  ![image](https://github.com/user-attachments/assets/f288db10-fb37-4533-80e1-7616d55b3437)
 
+ 
+
 
 
  
