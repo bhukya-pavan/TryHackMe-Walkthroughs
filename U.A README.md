@@ -49,6 +49,14 @@ In the address bar, type  the IP address
  ![image](https://github.com/user-attachments/assets/2930e18d-5622-4327-a4bb-971b31e3fe81)
  
  password : One?For?All_!!one1/A
+
+ ![image](https://github.com/user-attachments/assets/62452b96-d4ce-4b28-9fb8-c6cf4ccd8159)
+
+ THM{W3lC0m3_D3kU_1A_0n3f0rAll??}
+
+ 
+
+
  
 
  
