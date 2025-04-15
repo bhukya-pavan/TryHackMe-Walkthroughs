@@ -75,6 +75,23 @@ copy this file into deku@myheroacademia:/tmp$ sudo /opt/NewComponent/feedback.sh
 
 ![image](https://github.com/user-attachments/assets/2a8fe781-4f3a-457e-bfe8-ed59aace9b4b)
 
+![image](https://github.com/user-attachments/assets/f9069486-eb00-4be8-947d-475e992e31db)
+
+
+![image](https://github.com/user-attachments/assets/14462267-3c1e-4f86-acb6-987f5e40e17e)
+
+![image](https://github.com/user-attachments/assets/4d0d1902-7e56-4792-bcf6-462b34cf3fee)
+
+
+THM{Y0U_4r3_7h3_NUm83r_1_H3r0}
+
+
+
+![image](https://github.com/user-attachments/assets/24ac9cfa-0a6a-49e7-bd04-a1b616d4ec51)
+
+
+
+
 
 
 
