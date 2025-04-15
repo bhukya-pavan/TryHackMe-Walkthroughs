@@ -65,6 +65,22 @@ here i creat test.txt file [tmp > /tmp/test.txt]
 
 
 
+![image](https://github.com/user-attachments/assets/8f5aff68-4d41-4543-9de8-69013048c39f)
+
+is used to generate a new SSH key pair using the RSA algorithm.
+
+![image](https://github.com/user-attachments/assets/a91d7433-8e3b-4efa-8f80-5e13dab2e301)
+
+copy this file into deku@myheroacademia:/tmp$ sudo /opt/NewComponent/feedback.sh
+
+![image](https://github.com/user-attachments/assets/2a8fe781-4f3a-457e-bfe8-ed59aace9b4b)
+
+
+
+
+
+
+
 
 
  
