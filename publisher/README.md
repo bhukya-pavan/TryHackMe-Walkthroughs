@@ -32,6 +32,19 @@ fa229046d44eda6a3598c73ad96f4ca5
 
 
 
+![image](https://github.com/user-attachments/assets/7d83395e-acdd-43f9-9bec-da0ccc45f1c7)
+
+Copy the entire content of the id_rsa file, including the -----BEGIN RSA PRIVATE KEY----- and -----END RSA PRIVATE KEY----- lines.
+
+
+On our local machine, create a new file and paste the copied RSA key into it
+
+
+nano think_rsa
+
+![image](https://github.com/user-attachments/assets/46bce293-9c5d-4335-a25d-2348cab1f534)
+
+![image](https://github.com/user-attachments/assets/4fe8433e-de13-40f2-9a66-b2313ccd972b)
 
 
 
