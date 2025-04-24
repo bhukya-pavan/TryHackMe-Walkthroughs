@@ -46,6 +46,10 @@ nano think_rsa
 
 ![image](https://github.com/user-attachments/assets/4fe8433e-de13-40f2-9a66-b2313ccd972b)
 
+i get root flag 3a4225cc9e85709adda6ef55d6a4f2ca
+
+
+
 
 
 
