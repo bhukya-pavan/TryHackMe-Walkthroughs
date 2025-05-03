@@ -16,6 +16,10 @@ Enumeration on Port HTTP(80)
 
 ![image](https://github.com/user-attachments/assets/11400e06-cebc-4e76-98cd-0941fabb8b82)
 
+Dirsearch -u http://10.10.23.64
+
+
+
 
 
 
