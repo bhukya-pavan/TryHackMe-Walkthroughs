@@ -33,6 +33,21 @@ found loginpage
 
 ![image](https://github.com/user-attachments/assets/2d8d77e3-4fcc-4a8a-80e8-1d8ce81f2e2c)
 
+Gnerate passwordlist:  cewl http://10.10.162.195 > password.txt
+
+
+![image](https://github.com/user-attachments/assets/cf68dd44-91f6-426b-9c91-432fb55e9cdb)
+
+
+![image](https://github.com/user-attachments/assets/d7ea0113-f5c1-4cff-9b39-f45eb08ff8b2)
+
+![image](https://github.com/user-attachments/assets/d1fdc570-ab39-4c10-adfe-cde907a92ca4)
+
+(adipiscing)  password:
+
+
+
+
 
 
 
