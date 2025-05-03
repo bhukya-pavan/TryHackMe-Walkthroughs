@@ -70,6 +70,13 @@ grep -Ri "password" /var/log/
 
 passwords: _Zd_zx7N823/
 
+![image](https://github.com/user-attachments/assets/24fb8034-cabd-41c0-a722-e48e08c88964)
+
+![image](https://github.com/user-attachments/assets/7255eee2-51e7-4f34-8455-7ba6b99d6ed2)
+
+THM{098f6bcd4621d373cade4e832627b4f6}
+
+
 
 
 
