@@ -48,6 +48,17 @@ Gnerate passwordlist:  cewl http://10.10.162.195 > password.txt
 ![image](https://github.com/user-attachments/assets/1c7bf272-9882-4024-a40e-d97471b60bbc)
 
 
+so changed the ID parameter and got SSH credentials
+
+![image](https://github.com/user-attachments/assets/46f9b354-623b-468c-a349-918ce8ac5879)
+
+Username: tim
+Password: cm0nt!md0ntf0rg3tth!spa$$w0rdagainlol
+
+
+
+
+
 
 
 
