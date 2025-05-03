@@ -18,6 +18,16 @@ Enumeration on Port HTTP(80)
 
 Dirsearch -u http://10.10.23.64
 
+![image](https://github.com/user-attachments/assets/5f7413b3-89ac-46c3-a3bd-2ecebd5aa079)
+
+nothing interesting 
+
+![image](https://github.com/user-attachments/assets/4bf09fd2-28b6-4ef1-b26f-14014dd85de3)
+
+
+
+
+
 
 
 
