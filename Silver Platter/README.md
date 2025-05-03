@@ -53,7 +53,20 @@ so changed the ID parameter and got SSH credentials
 ![image](https://github.com/user-attachments/assets/46f9b354-623b-468c-a349-918ce8ac5879)
 
 Username: tim
+
 Password: cm0nt!md0ntf0rg3tth!spa$$w0rdagainlol
+
+![image](https://github.com/user-attachments/assets/c8b1dc61-43fc-4b8e-ac10-5daaf8ca5cf7)
+
+![image](https://github.com/user-attachments/assets/4e17acfa-f0e3-40e1-9e19-eb27b8460368)
+
+THM{c4ca4238a0b923820dcc509a6f75849b}
+
+
+
+
+
+
 
 
 
