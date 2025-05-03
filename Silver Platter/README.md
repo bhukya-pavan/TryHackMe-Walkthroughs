@@ -24,6 +24,14 @@ nothing interesting
 
 ![image](https://github.com/user-attachments/assets/4bf09fd2-28b6-4ef1-b26f-14014dd85de3)
 
+![image](https://github.com/user-attachments/assets/ad6e4cc5-6c22-4730-8a24-e04f45264352)
+
+
+→ Navigating to “http://IP_Machine:8080/silverpeas/” displayed the following login panel 
+
+found loginpage 
+
+![image](https://github.com/user-attachments/assets/2d8d77e3-4fcc-4a8a-80e8-1d8ce81f2e2c)
 
 
 
