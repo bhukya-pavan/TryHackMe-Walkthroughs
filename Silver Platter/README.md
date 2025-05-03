@@ -43,7 +43,12 @@ Gnerate passwordlist:  cewl http://10.10.162.195 > password.txt
 
 ![image](https://github.com/user-attachments/assets/d1fdc570-ab39-4c10-adfe-cde907a92ca4)
 
-(adipiscing)  password:
+(adipiscing)  password: Login successfully 
+
+![image](https://github.com/user-attachments/assets/1c7bf272-9882-4024-a40e-d97471b60bbc)
+
+
+
 
 
 
