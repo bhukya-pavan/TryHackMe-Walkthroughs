@@ -62,6 +62,19 @@ Password: cm0nt!md0ntf0rg3tth!spa$$w0rdagainlol
 
 THM{c4ca4238a0b923820dcc509a6f75849b}
 
+Privilege Escalation
+
+grep -Ri "password" /var/log/
+
+![image](https://github.com/user-attachments/assets/d07374f8-f4cf-4074-86b0-66be977415b5)
+
+passwords: _Zd_zx7N823/
+
+
+
+
+
+
 
 
 
