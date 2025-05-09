@@ -22,6 +22,14 @@ After identifying that port 80 is open, I pasted the target IP in the browser:
  
  ![image](https://github.com/user-attachments/assets/9fb6b5d8-7598-4ab8-97f8-1a78de772fd2)
 
+ $ python -c ‘import pty;pty.spawn(“/bin/bash”)’
+
+ su roobt : 
+![image](https://github.com/user-attachments/assets/3c1da3e6-0012-4d1c-b066-b170a968c0cf)
+
+ 
+
+
  
  ![image](https://github.com/user-attachments/assets/f0915338-0451-4a8b-a6b6-b46cf68325bb)
 
@@ -45,6 +53,13 @@ http://10.10.237.142/404.php
   ![image](https://github.com/user-attachments/assets/18d20239-5e09-4f7e-bbbc-6c51567b84ee)
 
   ![image](https://github.com/user-attachments/assets/d2c6aad7-65b9-4a73-8b72-1c9063e23b0d)
+
+
+  ![image](https://github.com/user-attachments/assets/0e487308-727d-4773-8b15-94172627c968)
+
+  ![image](https://github.com/user-attachments/assets/b347fbaa-1adb-4908-a224-5052398d4a90)
+
+
 
 
 
