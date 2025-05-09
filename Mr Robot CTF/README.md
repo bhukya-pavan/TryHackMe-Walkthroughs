@@ -39,6 +39,19 @@ Lets use Cyber chef to decode the string
 
   ![image](https://github.com/user-attachments/assets/efb1d170-95eb-4ebd-acab-a8da2a98248e)
 
+  ![image](https://github.com/user-attachments/assets/0405ff10-d46e-4141-a7c5-96c2090c7adb)
+  
+http://10.10.237.142/404.php
+  ![image](https://github.com/user-attachments/assets/18d20239-5e09-4f7e-bbbc-6c51567b84ee)
+
+  ![image](https://github.com/user-attachments/assets/d2c6aad7-65b9-4a73-8b72-1c9063e23b0d)
+
+
+
+
+  
+  
+
   
 
 
