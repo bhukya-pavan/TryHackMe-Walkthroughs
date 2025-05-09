@@ -30,7 +30,16 @@ After identifying that port 80 is open, I pasted the target IP in the browser:
  ![image](https://github.com/user-attachments/assets/65608cac-f767-48b1-8814-30c1d3a8127c)
 
 Lets use Cyber chef to decode the string 
+
  ![image](https://github.com/user-attachments/assets/73d2c715-e09e-4efa-92e8-5e69485898cd)
+
+ ![image](https://github.com/user-attachments/assets/555d5780-0259-4ef5-a85c-119f86a01a6f)
+
+ Use the Credentials to Login 
+
+  ![image](https://github.com/user-attachments/assets/efb1d170-95eb-4ebd-acab-a8da2a98248e)
+
+  
 
 
  
