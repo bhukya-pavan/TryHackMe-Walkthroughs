@@ -21,6 +21,18 @@ Using Gobuster search hiden directories;
 
 <img width="1540" height="776" alt="image" src="https://github.com/user-attachments/assets/27a97cab-29df-463c-8259-98978348ab87" />
 
+<img width="1660" height="694" alt="image" src="https://github.com/user-attachments/assets/dc602bdd-ed7c-47f6-9fd0-5263a2e79f33" />
+
+successful logging 
+
+<img width="1543" height="722" alt="image" src="https://github.com/user-attachments/assets/1a2c3fd1-16dd-477b-a8a8-7f4387175d8d" />
+
+<img width="1222" height="687" alt="image" src="https://github.com/user-attachments/assets/e888c620-614e-4f67-a21f-153eca3dba47" />
+
+
+
+
+
 
 
 
